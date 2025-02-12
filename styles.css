@@ -1,0 +1,101 @@
+
+html {
+    font-family: Merriweather, Arial, sans-serif;
+}
+body {
+    
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+#open {
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin-bottom: 3px;
+    padding: 20px;
+}
+
+section {
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin-bottom: 3px;
+}
+
+.colors {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    color: black;
+    display: inline-block;
+    margin: 10px;
+    border: solid 2px black;
+   
+  
+}
+.swatch {
+    text-align: center;
+    
+}
+   
+.hex {
+    position: relative;
+    height: 40px;
+    line-height: 120px;
+}
+#Destin {
+    background-color: #b3ffff;
+    
+}
+#Atlanticgreen {
+    background-color:#669999;
+
+}
+#Sandyshores {
+    background-color: #ffe5cc;
+}
+#Flamingo {
+    background-color: #ff66b3;
+
+}
+.notosans {
+    font-family: "Noto Sans";
+}
+.font {
+    text-decoration: underline;
+    font-size:larger;
+}
+.bold {
+    font-weight: bold;
+}
+.merienda {
+    font-family: Merienda;
+}
+.italic {
+    font-style: italic;
+}
+.gluten {
+    font-family: Gluten;
+}
+#fonts {
+    margin-bottom: 30px;
+    padding: 25px;
+}
+#textstyles{
+    padding: 20px;
+} 
+h1 {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Gluten;
+}
+h2 {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Merienda;
+
+}
+p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Noto Sans';
+}
